@@ -1,2 +1,3 @@
 # NehaCollege
-This is my first Repo
+This is my first Repos
+Author-Neha Vashishtha
